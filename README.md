@@ -3,8 +3,9 @@
 ### VIT Architecture
 
 <div align="center">
-    <img src="architecture.png" height="280" width="360" >
+    <img src="Architecture.png" height="280" width="360" >
 </div>
+
 
 ### thanks to 
 
